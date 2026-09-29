@@ -1,2 +1,3 @@
 # vdp-lane3-buildrs
-Lane3 revalidation fixture (own tenant) - harmless canary exec
+
+Own-tenant fixture for CodeRabbit VDP revalidation (lane 3) — cargo build.rs canary.
